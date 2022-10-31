@@ -1,3 +1,21 @@
+# Django practice
+#   |
+#   +-- Secret
+src1/project1/settings_secrets.py
+src1/project2/settings_secrets.py
+
+# Django practice
+#   |
+#   +-- Winmerge
+*.bak
+#   |
+#   +-- Database
+src1/data/db
+
+# ˆê‰‘‚¢‚Ä‚¨‚­
+
+# ####### # ####### # ####### # #######
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
