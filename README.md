@@ -17,6 +17,7 @@ docker-compose up
 * 過去バージョン ～ 最新バージョン網羅
     * 📖 [http://localhost:8000/portal/ver1.0/](http://localhost:8000/portal/ver1.0/)
     * 📖 [http://localhost:8000/portal/ver1.1.0/](http://localhost:8000/portal/ver1.1.0/)
+    * 📖 [http://localhost:8000/portal/ver1.1.0/](http://localhost:8000/portal/ver1.2.0/)
 
 # URLs generator
 
