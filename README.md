@@ -10,7 +10,7 @@ cd src1
 docker-compose up
 ```
 
-# Smoke test
+# Open the browser
 
 * 📖 [http://localhost:8000/hello/ver1.0/](http://localhost:8000/hello/ver1.0/) - 練習
 * 📖 [http://localhost:8000/](http://localhost:8000/) - ポータル
