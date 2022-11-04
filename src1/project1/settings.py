@@ -29,6 +29,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 #    .resolve().parent        は `code/projectN/`
 #    .resolve().parent.parent は `code/`
 #    となっていて、つまり BASE_DIR は あなたの開発用ディレクトリーを指している
+print(f"[projectN settings.py] BASE_DIR:{BASE_DIR}")
 
 # プロジェクト名を親ディレクトリー名から取得
 PROJECT_NAME = os.path.basename(Path(__file__).resolve().parent)

@@ -4,4 +4,4 @@ file,path,name,comment,module,class,alias,method
 ../src1/project1/urls_warabenture_vol1o0_autogen.py,portal/ver1.0/,potal,"ポータルv1.0",apps1.warabenture_vol1o0.views.portal.ver1o0,PortalView,PortalV1o0View,render
 ../src1/project1/urls_warabenture_vol1o0_autogen.py,portal/ver1.1.0/,potal,"ポータルv1.1.0",apps1.warabenture_vol1o0.views.portal.ver1o1o0,PortalView,PortalV1o1o0View,render
 ../src1/project1/urls_warabenture_vol1o0_autogen.py,portal/ver1.2.0/,potal,"ポータルv1.2.0",apps1.warabenture_vol1o0.views.portal.ver1o2o0,PortalView,PortalV1o2o0View,render
-../src1/project1/urls_warabenture_vol1o0_autogen.py,,potal,"ポータル最新版",apps1.warabenture_vol1o0.views.portal.ver1o2o0,PortalView,,render
+../src1/project1/urls_warabenture_vol1o0_autogen.py,,potal,"ポータル現行版",apps1.warabenture_vol1o0.views.portal.current,PortalView,,render

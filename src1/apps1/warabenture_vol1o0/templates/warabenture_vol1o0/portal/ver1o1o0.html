@@ -4,11 +4,11 @@
     <head>
         <meta charset="utf-8" />
         <title>ワラベンチャー</title>
-        <link rel="shortcut icon" type="image/png" href="{% static 'favicon.ico' %}" />
-        <!--                                                ===================
+        <link rel="shortcut icon" type="image/png" href="{% static 'warabenture_vol1o0/favicon.ico' %}" />
+        <!--                                                ======================================
                                                             1
-            1. Example: `http://example.com/static/favicon.ico`
-                                            ==================
+            1. Example: `http://example.com/static/warabenture_vol1o0/favicon.ico`
+                                            =====================================
         -->
         <!-- 3D -->
         <script src="https://unpkg.com/three@0.140.2/build/three.min.js"></script>
@@ -27,6 +27,7 @@
                  * パスの手調整
                  */
                 function adjustPath(path) {
+                    // ドメイン直下と、サブドメイン直下では 相対パスが変わる
                     return `../../${path}`;
                 }
 
@@ -34,7 +35,7 @@
                 // 外部リソースの場所
                 //
                 // 画像ファイルパス
-                const pathOfImageNo1 = adjustPath("static/202101__character__28--kifuwarabe-futsu.png");
+                const pathOfImageNo1 = adjustPath("static/warabenture_vol1o0/202101__character__28--kifuwarabe-futsu.png");
 
                 //
                 // キャンバス・サイズ設定
