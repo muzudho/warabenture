@@ -2,6 +2,26 @@
 
 わたしのホームページ（＾～＾）
 
+# Git
+
+👇 1回目は、イニシャライズしてクローン  
+
+```shell
+# がんばｓって、ディレクトリーを移動してほしい
+# cd warabenture/src1
+
+git init
+
+git clone https://github.com/muzudho/warabenture.git
+```
+
+👇 2回目以降は、プルしてフェッチ  
+
+```shell
+git pull https://github.com/muzudho/warabenture.git
+git fetch https://github.com/muzudho/warabenture.git
+```
+
 # Run
 
 ```shell
