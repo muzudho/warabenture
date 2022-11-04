@@ -18,6 +18,10 @@ git clone https://github.com/muzudho/warabenture.git
 👇 2回目以降は、プルしてフェッチ  
 
 ```shell
+# （慎重）ローカルの変更をすべて破棄したいなら
+git restore .
+
+# 取得
 git pull https://github.com/muzudho/warabenture.git
 git fetch https://github.com/muzudho/warabenture.git
 ```
