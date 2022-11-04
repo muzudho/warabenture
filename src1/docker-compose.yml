@@ -27,7 +27,8 @@ services:
     volumes:
       - .:/code
     ports:
-      - "8000:8000"
+      - "80:8000"
+      # ブラウザのポート番号のデフォルト値が 80
     environment:
       - POSTGRES_NAME=postgres
       - POSTGRES_USER=postgres
