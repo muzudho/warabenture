@@ -38,9 +38,10 @@ docker-compose up
 
 Open the browser
 
-* 📖 [http://localhost:8000/hello/ver1.0/](http://localhost:8000/hello/ver1.0/) - 練習
-* 📖 [http://localhost:8000/](http://localhost:8000/) - ポータル
+* 📖 [http://localhost/hello/ver1.0/](http://localhost/hello/ver1.0/) - 練習
+* 📖 [http://localhost/](http://localhost/) - ポータル
 * 過去バージョン ～ 最新バージョン網羅
-    * 📖 [http://localhost:8000/portal/ver1.0/](http://localhost:8000/portal/ver1.0/)
-    * 📖 [http://localhost:8000/portal/ver1.1.0/](http://localhost:8000/portal/ver1.1.0/)
-    * 📖 [http://localhost:8000/portal/ver1.1.0/](http://localhost:8000/portal/ver1.2.0/)
+    * 📖 [http://localhost/portal/ver1.0/](http://localhost/portal/ver1.0/)
+    * 📖 [http://localhost/portal/ver1.1.0/](http://localhost/portal/ver1.1.0/)
+    * 📖 [http://localhost/portal/ver1.1.0/](http://localhost/portal/ver1.2.0/)
+* 📖 [http://localhost/air-hockey](http://localhost/air-hockey) - エアホッケー

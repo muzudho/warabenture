@@ -7,6 +7,7 @@ from apps1.warabenture_vol1o0.views.portal.ver1o0 import PortalView as PortalV1o
 from apps1.warabenture_vol1o0.views.portal.ver1o1o0 import PortalView as PortalV1o1o0View
 from apps1.warabenture_vol1o0.views.portal.ver1o2o0 import PortalView as PortalV1o2o0View
 from apps1.warabenture_vol1o0.views.portal.current import PortalView
+from apps1.warabenture_vol1o0.views.builds.air_hockey import AirHockeyView
 
 
 urlpatterns = [
@@ -24,6 +25,9 @@ urlpatterns = [
 
     # ポータル現行版
     path('', PortalView.render, name='potal'),
+
+    # エアホッケー
+    path('air-hockey', AirHockeyView.render, name='air_hockey'),
 ]
 
 # AutoGenEnd [O3o2o_1o0g4o0]
